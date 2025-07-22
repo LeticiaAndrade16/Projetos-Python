@@ -1,27 +1,3 @@
-'''
-🧾 Exercício: Sistema de Estoque de Livros
-Crie um sistema simples para gerenciar o estoque de livros de uma livraria.
-
-📚 Requisitos:
-Cadastrar Livros
-
-Peça: título, autor e quantidade em estoque.
-
-Continue cadastrando até o usuário digitar "sair".
-
-Armazenar os livros
-
-Cada livro deve ser armazenado como uma estrutura organizada (classe ou dicionário).
-
-Exibir catálogo
-
-Mostre todos os livros cadastrados com: Título | Autor | Quantidade.
-
-Permitir busca por título
-
-O usuário digita o nome de um livro e o sistema mostra os dados dele, se existir.
-'''
-
 import mysql.connector
 
 # Conectar ao banco de dados
@@ -29,7 +5,7 @@ conexao = mysql.connector.connect(
     host='localhost',
     port=3306,
     user='root',
-    password='81194',
+    password='sua.senha',
     database='biblioteca'
 )
 
