@@ -75,8 +75,6 @@ WEATHER_API_KEY=sua_chave_aqui
 
 Você pode obter uma chave através da [OpenWeatherMap API](https://openweathermap.org/api).
 
-> 🔐 Por segurança, nunca compartilhe sua API Key ou envie o arquivo `.env` para o GitHub.
-
 ## ▶️ Como executar
 
 Execute:
