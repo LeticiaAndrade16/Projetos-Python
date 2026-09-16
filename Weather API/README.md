@@ -182,8 +182,6 @@ GET /tempo/São Paulo
 
 A chave da OpenWeatherMap é armazenada em uma variável de ambiente utilizando `python-dotenv`.
 
-O arquivo `.env` está incluído no `.gitignore` para evitar que informações sensíveis sejam publicadas no repositório.
-
 ## 📄 Licença
 
 Este projeto está sob a licença MIT.
