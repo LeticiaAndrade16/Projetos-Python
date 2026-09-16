@@ -30,13 +30,9 @@ API REST para consulta de informações meteorológicas em tempo real, desenvolv
 Weather API/
 │
 ├── main.py
-├── requirements.txt
 ├── .env.example
-├── .gitignore
 └── README.md
 ```
-
-> O arquivo `.env` não deve ser enviado para o GitHub, pois contém a chave de acesso da API.
 
 ## 📦 Instalação
 
