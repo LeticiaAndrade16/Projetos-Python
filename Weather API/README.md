@@ -28,8 +28,8 @@ API REST para consulta de informações meteorológicas em tempo real, desenvolv
 
 ```text
 Weather API/
-│
 ├── main.py
+├── requirements.txt
 ├── .env.example
 └── README.md
 ```
